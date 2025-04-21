@@ -22,6 +22,12 @@
                 "scopeName": "source.ts",
                 "path": "./grammer.json"
             }
+        ],
+        "snippets": [
+            {
+                "language": "tskernel-user-defining-lang",
+                "path": "./snippets.json"
+            }
         ]
     }
 }
