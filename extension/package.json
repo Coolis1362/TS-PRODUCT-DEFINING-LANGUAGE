@@ -5,5 +5,16 @@
     "description": "This Was Made to Define A Product Description",
     "engines": {
         "vscode": ">=1.0.0"
+    },
+    "categories": ["Programming Languages", "Snippets"],
+    "contributes": {
+        "languages": [
+            {
+                "id": "ts-product-defining-lan",
+                "aliases": ["TS-PRODUCT Defining Language", "ts-product-defining-lan"],
+                "extensions": [".tsproduct", "product"],
+                "configuration": "./language-configuration.json"
+            }
+        ]
     }
 }
