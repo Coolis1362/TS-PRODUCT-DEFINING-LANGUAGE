@@ -2,7 +2,7 @@
     "scopeName": "source.ts",
     "patterns": [
         {
-            "name": "keyword.control.ts",
+            "name": "keyword.control.tskernel-user-defining-lang",
             "match": "\\b(PRODUCT_NAME|PRODUCT_VERSION)\\b"
         },
         {
