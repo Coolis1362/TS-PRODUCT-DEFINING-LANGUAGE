@@ -1,0 +1,18 @@
+{
+    "scopeName": "source.ts",
+    "patterns": [
+        {
+            "name": "keyword.control.ts",
+            "match": "\\b(PRODUCT_NAME|PRODUCT_VERSION)\\b"
+        },
+        {
+            "name": "string.quoted.double.tskernel-user-defining-lang",
+            "match": "\".*?\""
+        },
+
+        {
+            "name":"constant.numeric.tskernel-user-defining-lang",
+            "match": "\\b\\d+\\b"
+        }
+    ]
+}
