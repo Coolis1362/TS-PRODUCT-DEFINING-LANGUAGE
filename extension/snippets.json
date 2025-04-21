@@ -1,4 +1,12 @@
 {
     "PRODUCT_NAME": {
+        "prefix": "PRODUCT_NAME",
+        "body": "PRODUCT_NAME: \"\"",
+        "description": "Define The Product Name"
+    },
+    "PRODUCT_VERSION": {
+        "prefix": "PRODUCT_VERSION",
+        "body":"PRODUCT_VERSION: ${Put Version Here}",
+        "description": "Define The Product Version"
     }
 }
