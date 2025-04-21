@@ -15,6 +15,13 @@
                 "extensions": [".tsproduct", "product"],
                 "configuration": "./language-configuration.json"
             }
+        ],
+        "grammars": [
+            {
+                "language": "ts-product-defining-lan",
+                "scopeName": "source.ts",
+                "path": "./grammer.json"
+            }
         ]
     }
 }
