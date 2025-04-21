@@ -1,6 +1,7 @@
 {
     "name": "ts-product-defining-lan",
     "displayName": "TS-PRODUCT Defining Language",
+    "version": "1.0.0",
     "publisher": "Coolis1362",
     "description": "This Was Made to Define A Product Description",
     "engines": {
